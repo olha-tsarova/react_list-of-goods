@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,yBAAkB,CAAlB,iBAAkB,CAClB,kBAAmB,CACnB,sBAAuB,CACvB,eACF","file":"main.3ba6e908.chunk.css","sourcesContent":[".App {\n  width: max-content;\n  margin: 50px auto 0;\n  font-family: sans-serif;\n  font-weight: 600;\n}\n"]}
